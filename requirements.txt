@@ -1,0 +1,10 @@
+opencv-python
+datetime
+face_recognition
+numpy
+os
+requests
+urllib
+gspread
+oauth2client
+pymongo
