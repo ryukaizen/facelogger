@@ -80,8 +80,9 @@ Before programming, connect your ESP32-CAM to an FTDI programmer as follows:
 > ⚠️ **Important:** Short GPIO0 to GND to enter programming mode. Remove this connection after programming.
 
 ### OLED Display Connection
+We have used OLED SSD1306 128x64 to display various statuses.
 
-After programming:
+After uploading the code to ESP32-CAM:
 
 1. Remove the GPIO0 to GND connection.
 2. Connect OLED GND to ESP32-CAM GND.
