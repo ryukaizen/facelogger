@@ -159,7 +159,8 @@ Ensure you replace these placeholder values with your actual URLs and IDs:
 ## 🚀 Usage
 
 1. Program the ESP32-CAM and note the generated URL.
-2. Run the Python script:
+2. Add face images into the `training_data` folder. Make sure those are in `.jpeg` format and are of good quality.
+3. Run the Python script:
 
 ```bash
 python3 main.py
