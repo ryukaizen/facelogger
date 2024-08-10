@@ -165,7 +165,7 @@ Ensure you replace these placeholder values with your actual URLs and IDs:
 ```bash
 python3 main.py
 ```
-3. The system will now detect and recognize faces using the ESP32-CAM feed.
+The system will now detect and recognize faces using the ESP32-CAM feed.
 
 >⚠️ Note: For the system to work properly, both the ESP32-CAM and the computer running the Python script must be on the same local network.
 
